@@ -1,3 +1,9 @@
+![Untitled](https://github.com/vijayasaravana/Road-adventure-sales-dashboard/assets/107205525/d66b753d-f32f-4387-9ec9-ae7a0c62ea99)
+
+
+
+
+
 The situation:
           You’ve just been hired by Adventure Works Cycles*, a global manufacturing company, to design and deliver an end-to-end business intelligence solution – from scratch!
 
